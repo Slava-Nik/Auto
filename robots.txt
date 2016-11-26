@@ -1,0 +1,7 @@
+User-agent: *
+User-agent: Yandex
+User-agent: Googlebot
+User-agent: StackRambler
+User-agent: Yahoo-MMCrawler
+User-agent: Googlebot-Image
+Host: 5.79.72.66
